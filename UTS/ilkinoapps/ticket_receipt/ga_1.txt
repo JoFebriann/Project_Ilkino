@@ -1,0 +1,7 @@
+===============================================
+               IL Kino Receipt                 
+===============================================
+Name		: ga
+Seat numbers	: 1
+Please check below your seat to get your gift.
+       Please arrive 15 minutes before.       

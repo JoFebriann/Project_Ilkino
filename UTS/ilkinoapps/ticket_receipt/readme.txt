@@ -1,0 +1,1 @@
+Folder ini menyimpan semua ticket receipt dalam bentuk file .txt.

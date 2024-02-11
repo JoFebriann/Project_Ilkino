@@ -1,0 +1,7 @@
+===============================================
+               IL Kino Receipt                 
+===============================================
+Name		: brian
+Seat numbers	: 4
+Please check below your seat to get your gift.
+       Please arrive 15 minutes before.       

@@ -1,0 +1,6 @@
+===============================================
+               IL Kino Receipt                 
+===============================================
+Name		: brian
+Seat numbers	: 3
+       Please arrive 15 minutes before.       
